@@ -65,4 +65,4 @@ This project demonstrates how customer analytics can be used to:
 
 ## Author
 **Ishu Verma**
-Aspiring Data Analyst | SQL | Python | Power BI | Business Analytics
+## Aspiring Data Analyst | SQL | Python | Power BI | Business Analytics
