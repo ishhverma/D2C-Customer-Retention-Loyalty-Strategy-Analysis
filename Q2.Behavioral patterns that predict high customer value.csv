@@ -1,0 +1,5 @@
+revenue_loyalty_segment,avg_frequency,avg_order_value,avg_discount_rate,avg_promo_ratio,avg_rating,customer_count
+"High Revenue",1.00,71.05,0.44,0.44,3.8,988
+"Medium Revenue",1.00,50,0.42,0.42,3.7,972
+"Very High Revenue",1.00,91.09,0.41,0.41,3.8,926
+"Low Revenue",1.00,29.52,0.44,0.44,3.8,1014

@@ -1,0 +1,9 @@
+revenue_loyalty_segment,promo_dependency_segment,customer_count,avg_spend,avg_promo_ratio,avg_order_value,avg_rating
+"Very High Revenue","No Promo Dependency",545,91.15,0,91.15,3.8
+"Very High Revenue","High Promo Dependency",381,91.00,1,91,3.8
+"High Revenue","No Promo Dependency",550,71.14,0,71.14,3.8
+"High Revenue","High Promo Dependency",438,70.94,1,70.94,3.8
+"Medium Revenue","No Promo Dependency",560,50.08,0,50.08,3.7
+"Medium Revenue","High Promo Dependency",412,49.89,1,49.89,3.7
+"Low Revenue","No Promo Dependency",568,29.61,0,29.61,3.8
+"Low Revenue","High Promo Dependency",446,29.40,1,29.4,3.8
