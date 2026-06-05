@@ -64,5 +64,5 @@ This project demonstrates how customer analytics can be used to:
 * Interactive Power BI Dashboard
 
 ## Author
-**Ishu Verma**
+## Ishu Verma
 ## Aspiring Data Analyst | SQL | Python | Power BI | Business Analytics
